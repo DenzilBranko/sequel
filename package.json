@@ -1,0 +1,19 @@
+{
+  "name": "sequel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "pg": "^7.4.3",
+    "sequelize": "^4.37.10"
+  }
+}

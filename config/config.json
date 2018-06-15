@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "iloveyou",
+    "database": "seq_sample",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "iloveyou",
+    "database": "seq_sample",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "iloveyou",
+    "database": "seq_sample",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
